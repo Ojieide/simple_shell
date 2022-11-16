@@ -1,5 +1,4 @@
 <h1>0x16. C - Simple Shell</h1>
-
 <ul>
 <li>Who designed and implemented the original Unix operating system</li>
 <li>Who wrote the first version of the UNIX shell</li>
